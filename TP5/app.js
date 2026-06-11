@@ -33,5 +33,5 @@ alert('el resultado de la division es: '+resultado)
 let nombrealumno="amira"
 let apellidoalumno="sosa"
 let edadalumno="14 años"
-console.log(la edad del alumno es)
+console.log
 
