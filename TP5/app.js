@@ -34,4 +34,4 @@ let nombrealumno="amira"
 let apellidoalumno="sosa"
 let edadalumno="14 años"
 console.log
-
+ 
