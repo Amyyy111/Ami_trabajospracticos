@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(228, 181, 255);
+    color: rgb(127, 70, 134);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#caja1{
+flex-direction: row;
+display: flex;
+justify-content: space-between;
+width: 100%;
+
+}
+
+text{
+    font-size: 15px;
+    color: beige;
+}
+
+
+button{
+background-color:white ;
+color: black;
+padding: 10px;
+border: none;
+border-radius: 10px;
+transition: 0.3s;
+}
+
+button:hover{
+    background-color: rgb(58, 28, 94);
+    color: white;
+    transform: scale(1.3);
+    rotate: 4deg;
+
+}
+div{
+display: flex;
+justify-content: space-between;
+width: 100%;
+
+}
+
+
+
+
+
+
+
