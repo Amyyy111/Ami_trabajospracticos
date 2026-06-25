@@ -30,8 +30,23 @@ resultado= numero7/numero8
 console.log('el resultado de la division es: '+resultado)
 alert('el resultado de la division es: '+resultado)
 
-let nombrealumno="amira"
-let apellidoalumno="sosa"
-let edadalumno="14 años"
-console.log
+let nombrealumno='amira'
+let apellidoalumno='sosa'
+let edadalumno='14 años'
+console.log('la alumna:amira sosa tiene 14 años')
  
+let precio1='20'
+let precio2='30'
+let precio3='15'
+console.log('el total a pagar es: $75')
+
+let comidafavorita='frutilla'
+let colorfavorito='dorado rosa'
+let numerofavorito='11'
+console.log('mi comida favorita es frutilla,me gusta el color dorado rosa y mi numero favorito es 11')
+
+let pais=('Brasil')
+console.log('Brasil')
+
+
+
