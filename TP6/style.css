@@ -23,7 +23,7 @@ text{
 }
 
 
-button{
+button:hover{
 background-color:white ;
 color: black;
 padding: 10px;
