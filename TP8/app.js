@@ -12,13 +12,13 @@ boton1.onclick = function () {
     }
 }
 //actividad 2
-let nombreUsuario2 = "Nahuel";
+let nombreUsuario2 = "facundo";
 let parrafo2 = document.querySelector("#p2");
 let boton2 = document.querySelector("#b2");
 
 boton2.onclick = function () {
-    if (nombreUsuario2 == "Nahuel") {
-        parrafo2.textContent = "Bienvenido Nahuel, ¿cómo estás?";
+    if (nombreUsuario2 == "facundol") {
+        parrafo2.textContent = "Bienvenido facundo, ¿cómo estás?";
     } else {
         parrafo2.textContent = "Bienvenido usuario";
     }
@@ -30,7 +30,7 @@ let parrafo3 = document.querySelector("#p3")
 let boton3 = document.querySelector("#b3")
 
 boton3.onclick = function () {
-if (nombreUsuario3 == "Nahuel" || nombreUsuario3 == "Marcos") {
+if (nombreUsuario3 == "facundo" || nombreUsuario3 == "Marcos") {
     parrafo3.textContent = "Bienvenido " + nombreUsuario3 + ", ¿cómo estás?";
 } else {
     parrafo3.textContent = "Bienvenido " + nombreUsuario3;
