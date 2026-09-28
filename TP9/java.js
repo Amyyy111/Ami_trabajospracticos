@@ -14,11 +14,11 @@ function mayor(numero1, numero2) {
 
 //actividad2
 function menor(numero1, numero2) {
-    let losnumero
+    let losnumeros
 
     if (numero1 < numero2) {
 
-        losnumero = numero2
+        losnumeros = numero2
 
     } else {
         losnumeros = numero1
