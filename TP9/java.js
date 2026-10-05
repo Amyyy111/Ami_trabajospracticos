@@ -24,5 +24,41 @@ function menor(numero1, numero2) {
         losnumeros = numero1
 
     }
-   return losnumeros
+    return losnumeros
 }
+
+//actividad3
+
+function igual(numero3, numero3) {
+
+    let losiguales
+//son iguales
+
+    if (numero3 = numero3) {
+
+        losiguales = numero3
+
+
+
+    } else {
+        losiguales = numero3
+    }
+    return losiguales
+}
+
+//actividad3
+
+function iguales(n1,n2,n3) {
+   
+    let resultado
+
+    if (n1 == n2)  &&  (n2==n3)   {
+
+  resultado = "son iguales"
+    }
+else
+ 
+resultado = "son distintos"
+}
+
+return resultado }
